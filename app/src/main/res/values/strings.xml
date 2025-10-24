@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023086</string>
+    <string name="history_title">History of Hull City A.F.C.</string>
+    <string name="history_detail">
+        <![CDATA[Hull City Association Football Club, known as Hull City or The Tigers, was founded in 1904 in Kingston upon Hull, East Yorkshire. The club was created to bring professional football to a city that was already passionate about sport. From the very beginning, Hull City adopted the black and amber colours that became its trademark, symbolizing strength and pride. In 1905, the club joined the Football League Second Division, beginning its long journey in English football.
+        \n\nDuring the early decades, Hull City played at several grounds, including The Boulevard and Anlaby Road, before settling at Boothferry Park in 1946. Under the guidance of player-manager Raich Carter, the team won the Third Division North title in 1949 and became a respected force in English football. Through the 1950s and 1960s, Hull City continued to compete strongly, and their Third Division championship in 1966 marked another memorable achievement.
+        \n\nThe years that followed brought both highs and lows. Financial difficulties and changes in management affected the club’s stability, and Hull City spent much of the 1970s to 1990s battling in the lower divisions. Despite these challenges, the club’s loyal supporters, known as the Tiger Nation, never lost faith. Their passion and dedication helped keep the club alive during difficult times, maintaining its identity as a proud representative of Hull.
+        \n\nA new era began in 2002 when the club moved from Boothferry Park to the modern KCOM Stadium, now known as the MKM Stadium. The change brought fresh hope and ambition. Under manager Phil Brown, Hull City achieved one of the greatest moments in its history by earning promotion to the Premier League for the first time in 2008. The unforgettable winning goal by Dean Windass in the Championship Play-off Final at Wembley remains one of the most iconic moments in the club’s story.
+        \n\nIn 2014, Hull City reached the FA Cup Final for the first time and, although they narrowly lost to Arsenal, they earned a place in the UEFA Europa League, marking their debut in European competition. Today, the club continues to compete in the EFL Championship, proud of its history and ambitious for the future. Hull City’s journey from local beginnings to the highest level of English football is a story of resilience, passion, and unity — a true reflection of the spirit of Hull.]]>
+    </string>
+    <string name="club_desc">
+        Hull City Association Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di kota Kingston upon Hull, Yorkshire Timur. Didirikan pada tahun 1904, klub ini berkompetisi di Championship, tingkat kedua dari sistem liga sepak bola Inggris. Julukan mereka adalah The Tigers, yang mereka kenakan pada seragam kandang berwarna kuning dan hitam.
+    </string>
+    <string name="history">Club History</string>
+    <string name="head_coach">Head Coach</string>
+    <string name="team_squad">Team Squad</string>
+</resources>
