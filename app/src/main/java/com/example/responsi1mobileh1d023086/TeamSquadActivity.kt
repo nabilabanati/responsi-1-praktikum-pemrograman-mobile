@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.ifunsoedmobile.databinding.ActivityTeamSquadBinding
 import com.example.responsi1mobileh1d023065.data.model.TeamSquad
+import com.example.responsi1mobileh1d023065.fragment.PlayerDetailFragment
 import com.example.responsi1mobileh1d023065.viewmodel.MainViewModel
 import com.example.responsi1mobileh1d023086.adapter.TeamSquadAdapter
 
@@ -53,11 +54,11 @@ class TeamSquadActivity : AppCompatActivity(), TeamSquadAdapter.OnSquadClickList
     }
 
     override fun onSquadClick(team: TeamSquad) {
-//        SquadDetailFragment.newInstance(
-//            squadName = squad.name,
-//            dateOfBirth = squad.dateOfBirth,
-//            nationality = squad.nationality,
-//            position = squad.position
-//        ).show(supportFragmentManager, SquadDetailFragment::class.java.simpleName)
+        PlayerDetailFragment.newInstance(
+            squadName = team.name,
+            dateOfBirth = team.dateOfBirth,
+            nationality = team.nationality,
+            position = team.position
+        ).show(supportFragmentManager, PlayerDetailFragment::class.java.simpleName)
     }
 }
