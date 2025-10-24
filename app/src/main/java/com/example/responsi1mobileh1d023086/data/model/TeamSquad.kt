@@ -15,7 +15,7 @@ data class TeamSquad(
     val nationality: String,
 )
 
-data class ClubSquadResponse(
+data class TeamSquadResponse(
     @SerializedName("squad")
     val squad: List<TeamSquad>,
 )

@@ -3,4 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#FF9402</color>
+    <color name="goalkeeper">#FFFF00</color>
+    <color name="defender">#03A9F4</color>
+    <color name="midfielder">#00FF00</color>
+    <color name="forward">#FF4242</color>
 </resources>

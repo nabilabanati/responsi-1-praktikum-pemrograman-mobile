@@ -1,4 +1,3 @@
-// File: app/src/main/java/com/example/responsi1mobileh1d023065/viewmodel/MainViewModel.kt
 package com.example.responsi1mobileh1d023065.viewmodel
 
 import android.util.Log
@@ -7,7 +6,6 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.responsi1mobileh1d023065.data.model.HeadCoach
-//import com.example.responsi1mobileh1d023065.data.model.Squad
 import com.example.responsi1mobileh1d023065.data.model.TeamSquad
 import com.example.responsi1mobileh1d023086.data.network.RetrofitInstance
 import kotlinx.coroutines.launch
